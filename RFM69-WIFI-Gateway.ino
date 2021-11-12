@@ -246,7 +246,7 @@ void setup()
 {
 	Serial.begin(9600);
 	delay(5000);
-	//while (!Serial);
+	// while (!Serial);
 
 	//pinMode(WIFI_SHIELD_CS, OUTPUT);
 
